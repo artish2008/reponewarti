@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117" started-at="2016-10-29T22:31:22Z" finished-at="2016-10-29T22:31:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117" started-at="2016-10-29T22:31:22Z" finished-at="2016-10-29T22:31:22Z">
+      <class name="com.stringproblem.TestStringProblem">
+        <test-method status="PASS" signature="testNullString()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testNullString" duration-ms="23" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNullString -->
+        <test-method status="PASS" signature="testString()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testString" duration-ms="3" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testString -->
+        <test-method status="PASS" signature="testStringNoCharPresent()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringNoCharPresent" duration-ms="3" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringNoCharPresent -->
+        <test-method status="PASS" signature="testStringWithBlankChar()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithBlankChar" duration-ms="2" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithBlankChar -->
+        <test-method status="PASS" signature="testStringWithBlankCharReplace()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithBlankCharReplace" duration-ms="2" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithBlankCharReplace -->
+        <test-method status="PASS" signature="testStringWithNoChar()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithNoChar" duration-ms="3" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithNoChar -->
+        <test-method status="PASS" signature="testStringWithOneChar()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithOneChar" duration-ms="3" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithOneChar -->
+        <test-method status="PASS" signature="testStringWithSameChar()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithSameChar" duration-ms="1" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithSameChar -->
+        <test-method status="PASS" signature="testStringWithSpecialChar()[pri:0, instance:com.stringproblem.TestStringProblem@6574b225]" name="testStringWithSpecialChar" duration-ms="3" started-at="2016-10-29T15:31:22Z" finished-at="2016-10-29T15:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringWithSpecialChar -->
+      </class> <!-- com.stringproblem.TestStringProblem -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
